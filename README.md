@@ -27,31 +27,31 @@ So Fork it and contribute in it.
   and keep your `master` branch clean.You can 
   create it by following command:
   
-  $git branch Branch_Name
+      $ git branch Branch_Name
   
 ```sh
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
   
-  $ git checkout -b Folder_Name
+      $ git checkout -b Folder_Name
 ```
 *Create a seperate branch for contibution and try to use same name of branch as of folder.*
 
-> To switch to desired branch
+> To switch to desired branch.
 ###To switch from one folder to other
    
-  $ git checkout Folder_Name
+      $ git checkout Folder_Name
 
 > To add the changes to the branch. 
   ### To add all files to branch Folder_Name.        
   
-  $ git add .
+      $ git add .
 
 > Type in a message relevant for the code reviewer using
   ### This message get associated with all files you have changed
   
-  $ git commit -m 'relevant message'
+      $ git commit -m 'relevant message'
 
 > Now, Push your awesome work to your remote repository using
   ### To push your work to your remote repository
   
-  $ git push -u origin Folder_Name
+      $ git push -u origin Folder_Name
