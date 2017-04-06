@@ -1,9 +1,6 @@
 # Algorithms
 This is a repository having Data Structure and Algorithms implementation.
-I love to have `articles` and `codes` in different languages and `betterment` of existing ones.
-So Fork it and contribute in it.
-
-
+For Contribution of new Algorithms Frok it.
 
 ### Getting Started - The Command Line ###
             https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
