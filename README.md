@@ -37,7 +37,7 @@ So Fork it and contribute in it.
 *Create a seperate branch for contibution and try to use same name of branch as of folder.*
 
 > To switch to desired branch.
-###To switch from one folder to other
+### To switch from one folder to other
    
       $ git checkout Folder_Name
 
