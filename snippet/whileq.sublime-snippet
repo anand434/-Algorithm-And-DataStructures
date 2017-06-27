@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+while(q--){
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>whileq</tabTrigger>
+
+<scope>source.cpp, source.c++, source.c</scope>
+</snippet>

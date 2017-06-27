@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++>
+using namespace std;
+
+int main(){
+
+	return 0;
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>stdc++</tabTrigger>
+
+<scope>source.cpp, source.c++, source.c</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

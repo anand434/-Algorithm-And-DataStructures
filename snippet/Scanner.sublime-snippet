@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+Scanner sc = new Scanner(System.in)
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>Scanner</tabTrigger>
+
+<scope>source.java</scope>
+</snippet>

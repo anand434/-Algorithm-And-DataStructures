@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+import java.util.*;
+import java.io.*;
+class Solution {
+	
+	public static void main(String[] arg){
+		System.out.println("Hello");
+	}
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>java</tabTrigger>
+
+<scope>source.java</scope>
+</snippet>

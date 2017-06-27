@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+vector <int> v;
+vector <int> :: iterator it;
+for(it = v.begin(); it != v.end(); it++){
+	cout << *it;
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>vector_int</tabTrigger>
+
+<scope>source.cpp, source.c++, source.c</scope>
+</snippet>

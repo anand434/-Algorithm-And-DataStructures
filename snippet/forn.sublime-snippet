@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+for(int i = 0; i < n; ++i){
+	
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>forn</tabTrigger>
+
+<scope>source.cpp, source.c++, source.c</scope>
+</snippet>

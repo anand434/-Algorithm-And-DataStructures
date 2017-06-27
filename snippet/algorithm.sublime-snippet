@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+#include <algorithm>
+#include <string>
+#include <stdlib>
+#include <iostream>
+using namespace std;
+
+int main(){
+
+	return 0;
+}
+]]></content>
+
+<description>Std Codes</description>
+
+<tabTrigger>algo</tabTrigger>
+
+<scope>source.cpp, source.c++, source.c</scope>
+</snippet>
